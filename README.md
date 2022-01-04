@@ -11,7 +11,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-a04f6e22a3.gif">
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/LsFfRjfm/meu-gif-github.gif">
 </div>
   
   ##
